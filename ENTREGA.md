@@ -4,7 +4,7 @@
 
 * Arrumar página sobre nós, e contate-nos (parte HTML e PHP).
 
-- Pedro Toledo, Leonardo Vieira.
+- Pedro Toledo, Leonardo Vieira e Gabriel Carneiro
 
 * Acrescentar os dados necessários na página de registro dos usuários.
 
@@ -16,4 +16,4 @@
 
 * Sistema de pesquisa de carona (parte HTML e PHP).
 
-- Pedro Toledo e Leonardo Pereira.
+- Pedro Toledo , Leonardo Pereira e Gabriel Carneiro
