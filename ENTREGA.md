@@ -1,6 +1,6 @@
 * Sistema de cadastro e login da página home.
 
-- Pedro Toledo, Leonardo Vieira.
+- Pedro Toledo, Leonardo Vieira e Thomas.
 
 * Arrumar página sobre nós, e contate-nos (parte HTML e PHP).
 
