@@ -4,7 +4,7 @@
 
 * Arrumar página sobre nós, e contate-nos (parte HTML e PHP).
 
-- Pedro Toledo, Leonardo Vieira e Gabriel Carneiro
+- Pedro Toledo, Leonardo Vieira, Gabriel Carneiro, Adriana e Fabricio.
 
 * Acrescentar os dados necessários na página de registro dos usuários.
 
